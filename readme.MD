@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Peter!
+### 👋 Hi,
 
 I'm a frontend developer passionate about building fast, clean, and maintainable web apps.  
 I work mostly with **TypeScript • Vue • Nuxt 💚**, but I'm always up for learning something new.
