@@ -7,6 +7,18 @@ I work mostly with **TypeScript • Vue • Nuxt 💚**, but I'm always up for l
 - 🚀 Focused on performance, accessibility & DX
 - 🎯 Clean code enthusiast & lifelong learner
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="{YOUR IMAGE URL}/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="{YOUR IMAGE URL}/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="{YOUR IMAGE URL}/images/breakout-light.svg" />
+</picture>
+
 ---
 
 [![buglavecz Nuxter profile](https://nuxters.nuxt.com/card/buglavecz/og.png?T=123)](https://nuxters.nuxt.com/buglavecz)
