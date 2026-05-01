@@ -19,6 +19,6 @@ I work mostly with **TypeScript • Vue • Nuxt 💚**, but I'm always up for l
   <img alt="Breakout Game" src=https://raw.githubusercontent.com/buglavecz/buglavecz/refs/heads/github-breakout/images/breakout-light.svg" />
 </picture>
 
-[![buglavecz Nuxter profile](https://nuxters.nuxt.com/card/buglavecz/og.png?T=123)](https://nuxters.nuxt.com/buglavecz)
+[![buglavecz Nuxter profile](https://nuxters.nuxt.com/_og/r/buglavecz.png)](https://nuxters.nuxt.com/buglavecz)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=buglavecz)
