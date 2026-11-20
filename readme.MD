@@ -6,7 +6,7 @@ I work mostly with **TypeScript • Vue • Nuxt 💚**, but I'm always up for l
 - 🧰 Tech stack: TypeScript, Vue 2/3, Nuxt 2/3, Pinia, SCSS, Vite
 - 🚀 Focused on performance, accessibility & DX
 - 🎯 Clean code enthusiast & lifelong learner
-
+<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -18,7 +18,7 @@ I work mostly with **TypeScript • Vue • Nuxt 💚**, but I'm always up for l
   />
   <img alt="Breakout Game" src=https://raw.githubusercontent.com/buglavecz/buglavecz/refs/heads/github-breakout/images/breakout-light.svg" />
 </picture>
-
+-->
 [![buglavecz Nuxter profile](https://nuxters.nuxt.com/_og/r/buglavecz.png)](https://nuxters.nuxt.com/buglavecz)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=buglavecz)
